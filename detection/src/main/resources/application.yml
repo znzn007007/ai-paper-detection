@@ -8,4 +8,4 @@ chatgpt:
       # 状态；true = 开启、false 关闭
       enabled: true
       api-host:
-      api-key:
+      api-key: 

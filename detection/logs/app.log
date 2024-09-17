@@ -1,8 +1,0 @@
-2024-06-13 19:37:17.079 [main] INFO  com.nemo.detection.Application - Starting Application using Java 17.0.11 with PID 32040 (C:\Learning\PaperMaster\detection\build\classes\java\main started by zkl in C:\Learning\PaperMaster\detection)
-2024-06-13 19:37:17.080 [main] INFO  com.nemo.detection.Application - No active profile set, falling back to 1 default profile: "default"
-2024-06-13 19:37:17.674 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8091"]
-2024-06-13 19:37:17.675 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
-2024-06-13 19:37:17.677 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
-2024-06-13 19:37:17.715 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2024-06-13 19:37:18.016 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8091"]
-2024-06-13 19:37:18.030 [main] INFO  com.nemo.detection.Application - Started Application in 1.378 seconds (process running for 1.829)
