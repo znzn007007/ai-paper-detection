@@ -1,0 +1,11 @@
+server:
+  port: 8091
+
+# ChatGPT SDK Config
+chatgpt:
+  sdk:
+    config:
+      # 状态；true = 开启、false 关闭
+      enabled: true
+      api-host:
+      api-key:

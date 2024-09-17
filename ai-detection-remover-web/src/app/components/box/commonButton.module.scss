@@ -1,0 +1,9 @@
+.button {
+  @apply px-4 py-2 font-semibold rounded btn btn-primary;
+
+  &.disabled {
+    @apply cursor-not-allowed border-[#303030];
+    color: rgba(222, 232, 249, 0.25);
+    background: rgba(222, 232, 249, 0.04);
+  }
+}
